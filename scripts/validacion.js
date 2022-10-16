@@ -1,4 +1,3 @@
-
 function validarTecla(evento) {
 	var codigoTecla = evento.key;
 	caracteresAdmitidos = 'abcdefghijklmnñopqrstuvwxyz ,."!;';
